@@ -4,3 +4,4 @@ This Repository contains the statistical analysis of Covid-19 in India. This was
 
 # Analysis and Visualizations
 
+https://github.com/aanchal-thaman/Tableau-Covid-19-Analysis/blob/main/Images/Intro.jpeg
