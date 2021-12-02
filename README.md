@@ -4,4 +4,3 @@ This Repository contains the statistical analysis of Covid-19 in India. This was
 
 # Analysis and Visualizations
 
-![Alt text](relative/path/to/img.jpg?raw=true "Intro")
