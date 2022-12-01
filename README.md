@@ -20,4 +20,4 @@ This Repository contains the statistical analysis of Covid-19 in India. This was
 
 # Acknowledgement
 
-We would like to thanks Prof. Vaibhav Vasani and Prof. Swapnil Pawar for the guidance and support throughout the coursework.
+We would like to thank Prof. Vaibhav Vasani and Prof. Swapnil Pawar for the guidance and support throughout the coursework.
